@@ -1,4 +1,4 @@
-   Copyright (c) $(YEAR), $(OWNER)
+   Copyright (c) <YEAR>, <OWNER>
    All rights reserved.
    
    XEOS Software License - Version 1.0 - December 21, 2012
