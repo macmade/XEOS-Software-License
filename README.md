@@ -1,6 +1,12 @@
 XEOS Software License
 =====================
 
+[![Build Status](https://img.shields.io/travis/macmade/XEOS-Software-License.svg?branch=master&style=flat)](https://travis-ci.org/macmade/XEOS-Software-License)
+[![Issues](http://img.shields.io/github/issues/macmade/XEOS-Software-License.svg?style=flat)](https://github.com/macmade/XEOS-Software-License/issues)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)
+![License](https://img.shields.io/badge/license-none-lightgray.svg?style=flat)
+[![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
+
 About
 -----
 
